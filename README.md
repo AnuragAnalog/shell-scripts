@@ -1,6 +1,6 @@
-#shell-scripts
+# shell-scripts
+***Description***
 
-*** Description ***
 1. txt2pdf.sh
 	This shell script converts any postscript file to pdf.
 2. petable.sh
